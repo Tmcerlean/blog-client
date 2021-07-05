@@ -13,7 +13,8 @@
     "react-loading-skeleton": "^2.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.2"
   },
   "scripts": {
     "start": "craco start",
@@ -44,7 +45,7 @@
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.2"
   },
-  "engines": { 
-    "node": "15.2.1" 
+  "engines": {
+    "node": "15.2.1"
   }
 }
