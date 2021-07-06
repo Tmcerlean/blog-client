@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[11],{49:function(t,e,c){"use strict";c.r(e);var n=c(0),s=c(1);e.default=function(){return Object(n.useEffect)((function(){document.title="Not Found"}),[]),Object(s.jsx)("div",{children:Object(s.jsx)("div",{className:"",children:Object(s.jsx)("p",{className:"",children:"Not Found!"})})})}}}]);
+//# sourceMappingURL=11.76bdeccf.chunk.js.map
