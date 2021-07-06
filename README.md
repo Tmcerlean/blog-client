@@ -23,11 +23,14 @@ Simple responsive frontend client for blog, built using React and TailwindCSS
 
 ## Built With
 - Express
+- MongoDB
+- Mongoose
+- Node
+- PassportJS
 - React
 - React Router
 - React Hook Form
 - React Loading Skeleton
-- PassportJS
 - Styled Components
 - Tailwind CSS
 
