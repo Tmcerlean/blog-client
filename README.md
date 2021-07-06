@@ -1,5 +1,6 @@
 # Blog Client
-Simple responsive frontend client for blog, built using React.
+Simple responsive frontend client for blog, built using React
+- Note: There are some issues with the Github Pages hosting currently
 - [Live demo.](https://tmcerlean.github.io/login)
 - Visit the server (CMS & REST API) repository for the blog [here.](https://github.com/Tmcerlean/blog-server)
 
@@ -31,6 +32,7 @@ Simple responsive frontend client for blog, built using React.
 - Tailwind CSS
 
 ## Future Improvements
+- Fix Github Pages deployment
 - Improve design
 - Add user profiles
 - Add comment replying
