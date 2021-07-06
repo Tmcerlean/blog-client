@@ -1,7 +1,7 @@
 # Blog Client
 Simple responsive frontend client for blog, built using React and TailwindCSS
 - Note: There are some issues with the Github Pages hosting currently
-- [Live demo.](https://tmcerlean.github.io/login)
+- [Frontend demo.](https://tmcerlean.github.io/blog-client/)
 - Visit the server (CMS & REST API) repository for the blog [here.](https://github.com/Tmcerlean/blog-server)
 
 ![](Demo.gif)
